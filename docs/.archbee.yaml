@@ -2,4 +2,4 @@ root: doc-api
 structure:
   summary: summary.md
   assets: assets
-publishSpace: tr
+publishSpace: true
