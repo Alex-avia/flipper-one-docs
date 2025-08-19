@@ -1,5 +1,5 @@
-root: /docs
+root: doc-api
 structure:
-  summary: SUMMARY.md
-assets: assets
-publishspace: true
+  summary: summary.md
+  assets: assets
+publishSpace: tr
