@@ -1,4 +1,4 @@
-# Flipper One collaboration
+# Flipper One main page
 
 ::Image[]{src="https://archbee-image-uploads.s3.amazonaws.com/3GUDYkC5JgUWgo6RW8piO-csKWkfvn-3oYC0cZNuB_3-20250820-142625.png" signedSrc="https://archbee-image-uploads.s3.amazonaws.com/3GUDYkC5JgUWgo6RW8piO-csKWkfvn-3oYC0cZNuB_3-20250820-142625.png" size="78" width="1144" height="592" position="center" caption}
 
