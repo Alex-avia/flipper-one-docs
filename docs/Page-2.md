@@ -1,2 +1,3 @@
-# Subdocument 2
+# Cooling system
+
 Looking at how changes are highlighted.
