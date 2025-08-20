@@ -12,16 +12,15 @@ Feel free to comment on our decision and share your suggestions either in the co
 
 ::::LinkArray
 :::LinkArrayItem{headerType="IMAGE" headerImage="https://archbee-image-uploads.s3.amazonaws.com/3GUDYkC5JgUWgo6RW8piO-hDi6001feZM7nJvvHZ8SS-20250820-143727.png"}
-3.5 mm port
+[3.5 mm port](./Page-1.md)&#x20;
 :::
 
 :::LinkArrayItem{headerType="IMAGE" headerImage="https://archbee-image-uploads.s3.amazonaws.com/3GUDYkC5JgUWgo6RW8piO-bD_lDaZAExf-_hz7OdmnU-20250820-143808.png"}
-Cooling system
+[Cooling system](./Page-2.md)&#x20;
 :::
 
 :::LinkArrayItem{headerType="IMAGE" headerImage="https://archbee-image-uploads.s3.amazonaws.com/3GUDYkC5JgUWgo6RW8piO-zCws6uv1La8sZOXR4o-AL-20250820-143820.jpg"}
-Display
-
+[Display](./Page-3.md)
 :::
 ::::
 
